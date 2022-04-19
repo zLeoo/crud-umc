@@ -7,7 +7,7 @@
         echo "Você não tem permissão de acesso!";
     } else {
     ?>    
-        <h2>Seja bem-vindo, <?php print($usuario['login'])?></h2>
+        <h2>Seja bem-vindo, <?php print($usuario['login'])?>!</h2>
         <p>Você tem perfil de acesso: <?php print($usuario['perfil'])?></p>
 
         <h4>Selecione a opção desejada: </h4>
