@@ -1,6 +1,6 @@
-    <footer>
+<footer>
         <br><hr>
-        <p>TODOS OS DIREITOS RESERVADOS - CRUD PHP - 2022</p>
-    </footer>
+        <p> <center> ALGUNS DIREITOS RESERVADOS - CRUD PHP - 2022</center></p>
+</footer>
 </body>
 </html>
